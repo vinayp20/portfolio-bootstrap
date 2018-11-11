@@ -1,0 +1,6 @@
+.word-wrap-div{
+	word-break : break-all;
+}
+.img-float{
+	display : inline-block;
+}
